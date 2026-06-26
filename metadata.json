@@ -1,6 +1,0 @@
-{
-  "name": "KI Kalorien & Makro Tracker",
-  "description": "Ein intelligenter, privater und hocheffizienter Kalorien- und Makro-Tracker namens Nozio. Nutzt Google Gemini für KI-Foto- und Freitext-Tracking sowie Barcode-Scans über Open Food Facts. Alle Daten bleiben 100% lokal in IndexedDB.",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
